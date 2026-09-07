@@ -1,0 +1,12 @@
+let miSuperheroeFavorito = "Hulk";
+let numeroFavorito = 50;
+let altura = 5;
+let longitud = 10;
+let suma = altura + longitud;
+
+
+console.log("Superhéroe favorito:", miSuperheroeFavorito);
+console.log("Número favorito:", numeroFavorito);
+console.log("Altura:", altura);
+console.log("Longitud:", longitud);
+console.log("Resultado de la suma (altura + longitud):", suma);
